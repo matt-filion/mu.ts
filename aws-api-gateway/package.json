@@ -1,0 +1,27 @@
+{
+  "name": "@mu.ts/aws-api-gateway",
+  "version": "1.0.0",
+  "description": "Tooling for TypeScript code that utilizes the serverless.com framework and AWS API Gateway.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-filion/mu.ts.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Serverless.com",
+    "Plugin",
+    "AWS",
+    "API",
+    "Gateway"
+  ],
+  "author": "matt.filion@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-filion/mu.ts/issues"
+  },
+  "homepage": "https://github.com/matt-filion/mu.ts#readme"
+}
